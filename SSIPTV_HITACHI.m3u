@@ -1,0 +1,333 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="====HRVATSKA====" tvg-logo="http://185.107.58.203:82/logo_channels/hrt_satelitski_program.png" group-title="Croatia",====HRVATSKA====
+http://cableserver1.cableguy.pro:82/live?cId=36&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="HTV1.hr" tvg-name="HRT 1 HD" tvg-logo="http://185.107.58.203:82/logo_channels/hrt1.png" group-title="Croatia",HRT 1 HD
+http://cableserver1.cableguy.pro:82/live?cId=38&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="HTV2.hr" tvg-name="HRT 2 HD" tvg-logo="http://185.107.58.203:82/logo_channels/hrt2.png" group-title="Croatia",HRT 2 HD
+http://cableserver1.cableguy.pro:82/live?cId=40&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-name="HRT 3 HD" tvg-logo="http://185.107.58.203:82/logo_channels/hrt3.png" group-title="Croatia",HRT 3 HD
+http://cableserver1.cableguy.pro:82/live?cId=42&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-name="HRT 4 HD" tvg-logo="http://185.107.58.203:82/logo_channels/hrt4.png" group-title="Croatia",HRT 4 HD
+http://cableserver1.cableguy.pro:82/live?cId=44&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="HRT5.hr" tvg-name="HRT INT. (CRO)" tvg-logo="http://185.107.58.203:82/logo_channels/hrt_satelitski_program.png" group-title="Croatia",HRT INT. (CRO)
+http://cableserver1.cableguy.pro:82/live?cId=20&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="NOVA TV" tvg-logo="http://185.107.58.203:82/logo_channels/novatv.png" group-title="Croatia",NOVA TV
+http://cableserver1.cableguy.pro:82/live?cId=45&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="NovaTV.hr" tvg-name="NOVA HD" tvg-logo="http://185.107.58.203:82/logo_channels/novatvhd.png" group-title="Croatia",NOVA HD
+http://cableserver1.cableguy.pro:82/live?cId=46&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL" tvg-logo="http://www.cableguy.club/RTL.png" group-title="Croatia",RTL
+http://cableserver1.cableguy.pro:82/live?cId=47&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTL WORLD" tvg-logo="http://185.107.58.203:82/logo_channels/ert_world_gr.png" group-title="Croatia",RTL WORLD
+http://cableserver1.cableguy.pro:82/live?cId=8516&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="rtl2.hr" tvg-name="RTL 2" tvg-logo="http://185.107.58.203:82/logo_channels/rtl2.png" group-title="Croatia",RTL 2
+http://cableserver1.cableguy.pro:82/live?cId=64&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-name="RTL KOCKICA" tvg-logo="http://www.cableguy.club/rtl-kockica.png" group-title="Croatia",RTL KOCKICA
+http://cableserver1.cableguy.pro:82/live?cId=48&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTLCrime.hr" tvg-name="RTL CRIME" tvg-logo="http://www.cableguy.club/rtl-crime.png" group-title="Croatia",RTL CRIME
+http://cableserver1.cableguy.pro:82/live?cId=49&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTLPassion.hr" tvg-name="RTL PASSION" tvg-logo="http://www.cableguy.club/RTL-Passion.png" group-title="Croatia",RTL PASSION
+http://cableserver1.cableguy.pro:82/live?cId=50&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTLLiving.hr" tvg-name="RTL LIVING" tvg-logo="http://www.cableguy.club/rtl-living.png" group-title="Croatia",RTL LIVING
+http://cableserver1.cableguy.pro:82/live?cId=51&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="DomaTV.hr" tvg-name="DOMA TV." tvg-logo="http://www.cableguy.club/domahr.png" group-title="Croatia",DOMA TV.
+http://cableserver1.cableguy.pro:82/live?cId=52&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="DomaTV.hr" tvg-name="DOMA TV HD." tvg-logo="http://185.107.58.203:82/logo_channels/domahd.png" group-title="Croatia",DOMA TV HD.
+http://cableserver1.cableguy.pro:82/live?cId=53&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Z1.hr" tvg-name="Z1 (CRO)" tvg-logo="http://www.cableguy.club/z1hr.png" group-title="Croatia",Z1 (CRO)
+http://cableserver1.cableguy.pro:82/live?cId=21&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="VinkovačkaTV.hr" tvg-name="VINKOVACKA" tvg-logo="http://www.cableguy.club/vinkovacka_250x250.png" group-title="Croatia",VINKOVACKA
+http://cableserver1.cableguy.pro:82/live?cId=54&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SlavonskaTV.hr" tvg-name="SLAVONSKA TV" tvg-logo="http://www.cableguy.club/slavonskatv.png" group-title="Croatia",SLAVONSKA TV
+http://cableserver1.cableguy.pro:82/live?cId=55&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Slavonskobrodska.hr" tvg-name="SBTV (Slavonskobrodska) TV	" tvg-logo="http://www.cableguy.club/sbtv.png" group-title="Croatia",SBTV (Slavonskobrodska) TV	
+http://cableserver1.cableguy.pro:82/live?cId=85&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="MrezaZG.hr" tvg-name="MREZA ZAGREB" tvg-logo="http://www.cableguy.club/mreza-zg-tv.png" group-title="Croatia",MREZA ZAGREB
+http://cableserver1.cableguy.pro:82/live?cId=56&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="MrezaST.hr" tvg-name="MREZA SPLIT" tvg-logo="http://www.cableguy.club/mreza-st-tv.png" group-title="Croatia",MREZA SPLIT
+http://cableserver1.cableguy.pro:82/live?cId=75&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="KlasikTV.hr" tvg-name="KLASIK TV" tvg-logo="http://www.cableguy.club/klasikhr.png" group-title="Croatia",KLASIK TV
+http://cableserver1.cableguy.pro:82/live?cId=57&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="KreatorTV.hr" tvg-name="KREATOR TV" tvg-logo="http://www.cableguy.club/Kreator_TV.png" group-title="Croatia",KREATOR TV
+http://cableserver1.cableguy.pro:82/live?cId=58&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Libertas.hr" tvg-name="LIBERTAS TV" tvg-logo="http://www.cableguy.club/libertastv.png" group-title="Croatia",LIBERTAS TV
+http://cableserver1.cableguy.pro:82/live?cId=59&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="N1Croatia.hr" tvg-name="N1 (HR)" tvg-logo="http://185.107.58.203:82/n1.png" group-title="Croatia",N1 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=60&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="NarodnaTV.hr" tvg-name="NARODNI TV" tvg-logo="http://www.cableguy.club/narodni_tv_hr.png" group-title="Croatia",NARODNI TV
+http://cableserver1.cableguy.pro:82/live?cId=61&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTL.hr" tvg-name="RTL (HR) (HD)" tvg-logo="http://185.107.58.203:82/logo_channels/rtl2_hr.png" group-title="Croatia",RTL (HR) (HD)
+http://cableserver1.cableguy.pro:82/live?cId=63&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="TrendTV.hr" tvg-name="TREND TV (Karlovac)" tvg-logo="http://www.cableguy.club/trendtv.png" group-title="Croatia",TREND TV (Karlovac)
+http://cableserver1.cableguy.pro:82/live?cId=65&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="JabukaTV.hr" tvg-name="TV JABUKA" tvg-logo="http://www.cableguy.club/jabuka.png" group-title="Croatia",TV JABUKA
+http://cableserver1.cableguy.pro:82/live?cId=67&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="VarazdinskaTV.hr" tvg-name="VTV Varazdin" tvg-logo="http://www.cableguy.club/vtv.png" group-title="Croatia",VTV Varazdin
+http://cableserver1.cableguy.pro:82/live?cId=68&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Kanal-Ri.hr" tvg-name="KANAL RI" tvg-logo="http://www.cableguy.club/kanalr.png" group-title="Croatia",KANAL RI
+http://cableserver1.cableguy.pro:82/live?cId=88&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport1.hr" tvg-name="ARENA SPORT 1 (HR)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_1.png" group-title="Sport / Sportski",ARENA SPORT 1 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=27&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport2.hr" tvg-name="ARENA SPORT 2 (HR)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",ARENA SPORT 2 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=28&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport3.hr" tvg-name="ARENA SPORT 3 (HR)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_3.png" group-title="Sport / Sportski",ARENA SPORT 3 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=29&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport4.hr" tvg-name="ARENA SPORT 4 (HR)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_4.png" group-title="Sport / Sportski",ARENA SPORT 4 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=30&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport5.hr" tvg-name="ARENA SPORT 5 (HR)" tvg-logo="http://cableguy.great-site.net/arenasport5.png" group-title="Sport / Sportski",ARENA SPORT 5 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=31&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport6.hr" tvg-name="ARENA SPORT 6 (HR)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_6.png" group-title="Sport / Sportski",ARENA SPORT 6 (HR)
+http://cableserver1.cableguy.pro:82/live?cId=32&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 7 HD HR" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",Arena Sport 7 HD HR
+http://cableserver1.cableguy.pro:82/live?cId=8329&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 7 BACKUP" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",ARENA SPORT 7 BACKUP
+http://cableserver1.cableguy.pro:82/live?cId=8498&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 8 HD HR" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_4.png" group-title="Sport / Sportski",Arena Sport 8 HD HR
+http://cableserver1.cableguy.pro:82/live?cId=8330&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 8 BACKUP" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport5.png" group-title="Sport / Sportski",ARENA SPORT 8 BACKUP
+http://cableserver1.cableguy.pro:82/live?cId=8499&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 9 HD HR" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",Arena Sport 9 HD HR
+http://cableserver1.cableguy.pro:82/live?cId=8331&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 9 BACKUP" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",ARENA SPORT 9 BACKUP
+http://cableserver1.cableguy.pro:82/live?cId=8500&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 10 HD HR" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",Arena Sport 10 HD HR
+http://cableserver1.cableguy.pro:82/live?cId=8332&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 10 BACKUP" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",ARENA SPORT 10 BACKUP
+http://cableserver1.cableguy.pro:82/live?cId=8501&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="ARENA SPORT 1 HD RS)" tvg-logo="http://185.107.58.203:82/arenasport1.png" group-title="Sport / Sportski",ARENA SPORT 1 HD RS)
+http://cableserver1.cableguy.pro:82/live?cId=692&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT  2 HD (RS)" tvg-logo="http://185.107.58.203:82/arenasport2.png" group-title="Sport / Sportski",ARENA SPORT  2 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=693&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="ARENA SPORT  3 HD (RS)" tvg-logo="http://185.107.58.203:82/arenasport3.png" group-title="Sport / Sportski",ARENA SPORT  3 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=694&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="ARENA SPORT  4 HD (RS)" tvg-logo="http://185.107.58.203:82/arenasport4.png" group-title="Sport / Sportski",ARENA SPORT  4 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=695&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="ARENA SPORT 5 HD (RS)" tvg-logo="http://185.107.58.203:82/arenasport5.png" group-title="Sport / Sportski",ARENA SPORT 5 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=696&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport BIH" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",Arena Sport BIH
+http://cableserver1.cableguy.pro:82/live?cId=8333&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 Premium ᴴᴰ" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",Arena Sport 1 Premium ᴴᴰ
+http://cableserver1.cableguy.pro:82/live?cId=8396&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2 Premium ᴴᴰ" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",Arena Sport 2 Premium ᴴᴰ
+http://cableserver1.cableguy.pro:82/live?cId=8397&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3 Premium ᴴᴰ" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport3.png" group-title="Sport / Sportski",Arena Sport 3 Premium ᴴᴰ
+http://cableserver1.cableguy.pro:82/live?cId=8398&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 1 (BACKUP)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",ARENA SPORT PREMIUM 1 (BACKUP)
+http://cableserver1.cableguy.pro:82/live?cId=8467&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 2 (BACKUP)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",ARENA SPORT PREMIUM 2 (BACKUP)
+http://cableserver1.cableguy.pro:82/live?cId=8468&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT PREMIUM 3 (BACKUP)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport3.png" group-title="Sport / Sportski",ARENA SPORT PREMIUM 3 (BACKUP)
+http://cableserver1.cableguy.pro:82/live?cId=8469&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Arena ESport" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",Arena ESport
+http://cableserver1.cableguy.pro:82/live?cId=8334&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Moja TV Sport HD" tvg-logo="http://185.107.58.203:82/logo_channels/polsat_sport.png" group-title="Sport / Sportski",Moja TV Sport HD
+http://cableserver1.cableguy.pro:82/live?cId=8335&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlubHD.hr" tvg-name="SPORT KLUB HD HR" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_rs.png" group-title="Sport / Sportski",SPORT KLUB HD HR
+http://cableserver1.cableguy.pro:82/live?cId=338&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-name="SPORT KLUB 1 HD (HR)" tvg-logo="http://185.107.58.203:82/sk1.png" group-title="Sport / Sportski",SPORT KLUB 1 HD (HR)
+http://cableserver1.cableguy.pro:82/live?cId=339&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub2.hr" tvg-name="SPORT KLUB 2 HD (HR)" tvg-logo="http://185.107.58.203:82/sk2.png" group-title="Sport / Sportski",SPORT KLUB 2 HD (HR)
+http://cableserver1.cableguy.pro:82/live?cId=1120&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="SPORT KLUB 3 HD (HR)" tvg-logo="http://185.107.58.203:82/sk3.png" group-title="Sport / Sportski",SPORT KLUB 3 HD (HR)
+http://cableserver1.cableguy.pro:82/live?cId=1121&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub4.hr" tvg-name="SPORT KLUB 4 HD (HR)" tvg-logo="http://185.107.58.203:82/sk4.png" group-title="Sport / Sportski",SPORT KLUB 4 HD (HR)
+http://cableserver1.cableguy.pro:82/live?cId=1122&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub5.hr" tvg-name="SPORT KLUB 5 HD (HR)" tvg-logo="http://185.107.58.203:82/sk5.png" group-title="Sport / Sportski",SPORT KLUB 5 HD (HR)
+http://cableserver1.cableguy.pro:82/live?cId=1123&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-name="SPORT KLUB 1 HD (RS) LOCAL" tvg-logo="http://185.107.58.203:82/sk1.png" group-title="Sport / Sportski",SPORT KLUB 1 HD (RS) LOCAL
+http://cableserver1.cableguy.pro:82/live?cId=1124&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub2.hr" tvg-name="SPORT KLUB 2 HD (MULTIAUDIO HR / RS) LOCAL" tvg-logo="http://185.107.58.203:82/sk2.png" group-title="Sport / Sportski",SPORT KLUB 2 HD (MULTIAUDIO HR / RS) LOCAL
+http://cableserver1.cableguy.pro:82/live?cId=340&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="SPORT KLUB 3 HD (MULTIAUDIO HR/RS/SLO) LOCAL" tvg-logo="http://185.107.58.203:82/sk3.png" group-title="Sport / Sportski",SPORT KLUB 3 HD (MULTIAUDIO HR/RS/SLO) LOCAL
+http://cableserver1.cableguy.pro:82/live?cId=341&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub4.hr" tvg-name="SPORT KLUB 4 HD (MULTIAUDIO HR/RR) LOCAL" tvg-logo="http://185.107.58.203:82/sk4.png" group-title="Sport / Sportski",SPORT KLUB 4 HD (MULTIAUDIO HR/RR) LOCAL
+http://cableserver1.cableguy.pro:82/live?cId=342&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub6.hr" tvg-name="SPORT KLUB 5 HD (MULTIAUDIO HR/RS) LOCAL" tvg-logo="http://185.107.58.203:82/sk5.png" group-title="Sport / Sportski",SPORT KLUB 5 HD (MULTIAUDIO HR/RS) LOCAL
+http://cableserver1.cableguy.pro:82/live?cId=343&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub1.hr" tvg-name="SPORT KLUB 1 HD (RS)" tvg-logo="http://185.107.58.203:82/sk1.png" group-title="Sport / Sportski",SPORT KLUB 1 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=344&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 HD (RS)" tvg-logo="http://185.107.58.203:82/sk2.png" group-title="Sport / Sportski",SPORT KLUB 2 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=345&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub3.hr" tvg-name="SPORT KLUB 3 HD (RS)" tvg-logo="http://185.107.58.203:82/sk3.png" group-title="Sport / Sportski",SPORT KLUB 3 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=346&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub4.hr" tvg-name="SPORT KLUB 4 HD (RS)" tvg-logo="http://185.107.58.203:82/sk4.png" group-title="Sport / Sportski",SPORT KLUB 4 HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=347&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SportKlub6.hr" tvg-name="SPORT KLUB 6 (MULTIAUDIO HR/RS) LOCAL" tvg-logo="http://185.107.58.203:82/sk6.png" group-title="Sport / Sportski",SPORT KLUB 6 (MULTIAUDIO HR/RS) LOCAL
+http://cableserver1.cableguy.pro:82/live?cId=348&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 7 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_rs.png" group-title="Sport / Sportski",SPORT KLUB 7 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=349&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SUPERRTL" tvg-name="SPORT KLUB 8 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_rs.png" group-title="Sport / Sportski",SPORT KLUB 8 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=350&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 9 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_rs.png" group-title="Sport / Sportski",SPORT KLUB 9 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=351&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 10 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_rs.png" group-title="Sport / Sportski",SPORT KLUB 10 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=352&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 HD (SL)" tvg-logo="http://185.107.58.203:82/logo_channels/sport1_de.png" group-title="Sport / Sportski",SPORT 1 HD (SL)
+http://cableserver1.cableguy.pro:82/live?cId=5768&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 2 HD (SL)" tvg-logo="http://185.107.58.203:82/logo_channels/sport2_hu.png" group-title="Sport / Sportski",SPORT 2 HD (SL)
+http://cableserver1.cableguy.pro:82/live?cId=402&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 3 HD (SL)" tvg-logo="http://185.107.58.203:82/logo_channels/sport1_de.png" group-title="Sport / Sportski",SPORT 3 HD (SL)
+http://cableserver1.cableguy.pro:82/live?cId=403&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 2 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_rs.png" group-title="Sport / Sportski",SPORT KLUB 2 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8471&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 3 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_pl.png" group-title="Sport / Sportski",SPORT KLUB 3 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8472&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="SPORT KLUB 4 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/sport_klub_pl.png" group-title="Sport / Sportski",SPORT KLUB 4 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8473&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 1 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport1.png" group-title="Sport / Sportski",ARENA SPORT 1 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8474&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 2 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",ARENA SPORT 2 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8475&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 3 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport3.png" group-title="Sport / Sportski",ARENA SPORT 3 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8514&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 4 SLO" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport4.png" group-title="Sport / Sportski",ARENA SPORT 4 SLO
+http://cableserver1.cableguy.pro:82/live?cId=8515&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 1 HR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 1 HR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8221&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 2 HR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 2 HR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8222&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 3 HR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 3 HR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8223&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 4 HR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 4 HR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8224&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 5 HR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arena_sport_hr_2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 5 HR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8225&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 6 HD HR" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport6.png" group-title="Sport / Sportski",BACKUP - Arena Sport 6 HD HR
+http://cableserver1.cableguy.pro:82/live?cId=8226&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 1 SR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 1 SR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8227&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 2 SR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 2 SR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8228&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 3 SR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 3 SR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8229&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 4 SR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport2.png" group-title="Sport / Sportski",BACKUP - Arena Sport 4 SR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8230&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="BACKUP - Arena Sport 5 SR (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/arenasport5.png" group-title="Sport / Sportski",BACKUP - Arena Sport 5 SR (L2)
+http://cableserver1.cableguy.pro:82/live?cId=8231&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name=">>>>>SRBIJA<<<<<" tvg-logo="http://185.107.58.203:82/logo_channels/pinkserije-alt.png" group-title="Serbia",>>>>>SRBIJA<<<<<
+http://cableserver1.cableguy.pro:82/live?cId=254&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1 (RS)*" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs.png" group-title="Serbia",RTS 1 (RS)*
+http://cableserver1.cableguy.pro:82/live?cId=259&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTS1.rs" tvg-name="RTS 1 L2 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs.png" group-title="Serbia",RTS 1 L2 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=260&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTS 1 (BACKUP)" tvg-logo="http://185.107.58.203:82/logo_channels/rtsh1-al.png" group-title="Serbia",RTS 1 (BACKUP)
+http://cableserver1.cableguy.pro:82/live?cId=8511&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTS2.rs" tvg-name="RTS 2 (RS) FHD" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs_hd.png" group-title="Serbia",RTS 2 (RS) FHD
+http://cableserver1.cableguy.pro:82/live?cId=261&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 (BACKUP)" tvg-logo="http://185.107.58.203:82/logo_channels/rtsh2-al.png" group-title="Serbia",RTS 2 (BACKUP)
+http://cableserver1.cableguy.pro:82/live?cId=8512&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTS3.rs" tvg-name="RTS 3 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs.png" group-title="Serbia",RTS 3 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=262&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTS 3 (BACKUP)" tvg-logo="http://185.107.58.203:82/logo_channels/rtsh3-al.png" group-title="Serbia",RTS 3 (BACKUP)
+http://cableserver1.cableguy.pro:82/live?cId=8513&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTS SVET (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs.png" group-title="Serbia",RTS SVET (RS)
+http://cableserver1.cableguy.pro:82/live?cId=264&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTSZivot.rs" tvg-name="RTS ZIVOT (RS)FHD" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs_hd.png" group-title="Serbia",RTS ZIVOT (RS)FHD
+http://cableserver1.cableguy.pro:82/live?cId=266&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTSDrama.rs" tvg-name="RTS DRAMA (RS) FHD" tvg-logo="http://www.cableguy.club/rtsdrama.png" group-title="Serbia",RTS DRAMA (RS) FHD
+http://cableserver1.cableguy.pro:82/live?cId=267&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="prvafiles.rs" tvg-name="PRVA FILES (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/prva_rs.png" group-title="Serbia",PRVA FILES (RS)
+http://cableserver1.cableguy.pro:82/live?cId=269&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="PRVA TV (RS)" tvg-logo="http://www.cableguy.club/Prva_Srpska_TV.png" group-title="Serbia",PRVA TV (RS)
+http://cableserver1.cableguy.pro:82/live?cId=270&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="PrvaPlus.rs" tvg-name="PRVA PLUS (RS)" tvg-logo="http://www.cableguy.club/Prva_Plus.png" group-title="Serbia",PRVA PLUS (RS)
+http://cableserver1.cableguy.pro:82/live?cId=271&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="PrvaMAX.rs" tvg-name="PRVA MAX (RS)" tvg-logo="http://www.cableguy.club/prvamax.png" group-title="Serbia",PRVA MAX (RS)
+http://cableserver1.cableguy.pro:82/live?cId=272&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Prva Kick" tvg-name="PRVA KICK (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/prva-kick-rs.png" group-title="Serbia",PRVA KICK (RS)
+http://cableserver1.cableguy.pro:82/live?cId=273&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="palmaplus.sr" tvg-name="PALMA PLUS (RS)" tvg-logo="http://www.cableguy.club/TV_Palma_Plus.png" group-title="Serbia",PALMA PLUS (RS)
+http://cableserver1.cableguy.pro:82/live?cId=274&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTV DUGA (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/tv-dukagjini-rs.png" group-title="Serbia",RTV DUGA (RS)
+http://cableserver1.cableguy.pro:82/live?cId=275&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Nasa.rs" tvg-name="NASA TV (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/nasa_tv_us.png" group-title="Serbia",NASA TV (RS)
+http://cableserver1.cableguy.pro:82/live?cId=277&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SOS.rs" tvg-name="SOS KANAL (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/sos_kanal_rs.png" group-title="Serbia",SOS KANAL (RS)
+http://cableserver1.cableguy.pro:82/live?cId=278&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="FAST BOX & FUN (RS)" tvg-logo="http://www.cableguy.club/Fast_&_FunBox_HD.png" group-title="Serbia",FAST BOX & FUN (RS)
+http://cableserver1.cableguy.pro:82/live?cId=280&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="BEYAZTR" tvg-name="GEM LAZAREVAC (RS)" tvg-logo="https://www.gemrtv.rs/wp-content/uploads/2018/04/cropped-GEM-300x300-3.jpg" group-title="Serbia",GEM LAZAREVAC (RS)
+http://cableserver1.cableguy.pro:82/live?cId=281&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="YU EKO HD (RS)" tvg-logo="https://www.exyuradio.net/pub/catalog/yu-eco-subotica.jpg" group-title="Serbia",YU EKO HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=282&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="TVBor.rs" tvg-name="RTV BOR (RS)" tvg-logo="http://www.cableguy.club/bor.png" group-title="Serbia",RTV BOR (RS)
+http://cableserver1.cableguy.pro:82/live?cId=285&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="O2.rs" tvg-name="O2 TV (B92) (RS)" tvg-logo="http://www.cableguy.club/o2tv.png" group-title="Serbia",O2 TV (B92) (RS)
+http://cableserver1.cableguy.pro:82/live?cId=286&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="happytv.sr" tvg-name="HAPPY (RS)" tvg-logo="http://www.cableguy.club/Happy.png" group-title="Serbia",HAPPY (RS)
+http://cableserver1.cableguy.pro:82/live?cId=287&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="PrvaWorld.rs" tvg-name="PRVA WORLD (RS)" tvg-logo="http://www.cableguy.club/prvaworld.png" group-title="Serbia",PRVA WORLD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=288&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="YU PLANET (RS)" tvg-logo="https://ws.shoutcast.com/images/contacts/d/d039/d039c5b7-1918-44e4-b69a-beaa0188093c/radios/8FCF1CC5-EAAE-4D36-BA41-F98ED11A76CF/8FCF1CC5-EAAE-4D36-BA41-F98ED11A76CF.png" group-title="Serbia",YU PLANET (RS)
+http://cableserver1.cableguy.pro:82/live?cId=289&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO B (RS)" tvg-logo="http://www.cableguy.club/Studio_B.png" group-title="Serbia",STUDIO B (RS)
+http://cableserver1.cableguy.pro:82/live?cId=290&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTV SABAC" tvg-logo="http://185.107.58.203:82/logo_channels/tv-sabac-rs.png" group-title="Serbia",RTV SABAC
+http://cableserver1.cableguy.pro:82/live?cId=8502&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="UNA WORLD 1 HD RS (LOKAL)" tvg-logo="http://185.107.58.203:82/logo_channels/nova_world_hr.png" group-title="Serbia",UNA WORLD 1 HD RS (LOKAL)
+http://cableserver1.cableguy.pro:82/live?cId=8503&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="UNA WORLD 2 HD BH (LOKAL)" tvg-logo="http://185.107.58.203:82/logo_channels/duna_world.png" group-title="Serbia",UNA WORLD 2 HD BH (LOKAL)
+http://cableserver1.cableguy.pro:82/live?cId=8504&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="UNA WORLD 3 HD HR (LOKAL)" tvg-logo="http://185.107.58.203:82/logo_channels/nova_world_hr.png" group-title="Serbia",UNA WORLD 3 HD HR (LOKAL)
+http://cableserver1.cableguy.pro:82/live?cId=8505&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="TV DR (LOKAL)" tvg-logo="http://185.107.58.203:82/logo_channels/tv_klodzka_pl.png" group-title="Serbia",TV DR (LOKAL)
+http://cableserver1.cableguy.pro:82/live?cId=8507&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="TSD TV (LOKAL)" tvg-logo="http://185.107.58.203:82/logo_channels/tv-lokalna-pl.png" group-title="Serbia",TSD TV (LOKAL)
+http://cableserver1.cableguy.pro:82/live?cId=8509&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="TV DUGA (RS)" tvg-logo="http://www.cableguy.club/tvduga.png" group-title="Serbia",TV DUGA (RS)
+http://cableserver1.cableguy.pro:82/live?cId=291&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="JEFIMIJA HD (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/tv-jefimija-rs.png" group-title="Serbia",JEFIMIJA HD (RS)
+http://cableserver1.cableguy.pro:82/live?cId=292&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="ZADRUGA 24 H (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/zadruga-tv-rs.png" group-title="Serbia",ZADRUGA 24 H (RS)
+http://cableserver1.cableguy.pro:82/live?cId=297&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="beINSERIESVICE.tr" tvg-name="INSAJDER (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/cine_star_rs_tv.png" group-title="Serbia",INSAJDER (RS)
+http://cableserver1.cableguy.pro:82/live?cId=299&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="tvmelos.rs" tvg-name="MELOS (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/belros-ru.png" group-title="Serbia",MELOS (RS)
+http://cableserver1.cableguy.pro:82/live?cId=300&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="SUPERSTAR TV" tvg-name="SUPERSTAR TV (RS)" tvg-logo="http://www.cableguy.club/SuperstarTV_logo.png" group-title="Serbia",SUPERSTAR TV (RS)
+http://cableserver1.cableguy.pro:82/live?cId=424&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="novas.rs" tvg-name="NOVA S (RS)" tvg-logo="http://cableline.cableguy.pro:8080/LOGO/Nova_TV.png" group-title="Serbia",NOVA S (RS)
+http://cableserver1.cableguy.pro:82/live?cId=426&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTS 2 HD (L2)" tvg-logo="http://185.107.58.203:82/logo_channels/rtsh2-al.png" group-title="Serbia",RTS 2 HD (L2)
+http://cableserver1.cableguy.pro:82/live?cId=444&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTV 1" tvg-logo="http://185.107.58.203:82/logo_channels/rtv1-nl.png" group-title="Serbia",RTV 1
+http://cableserver1.cableguy.pro:82/live?cId=445&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTV 2" tvg-logo="http://185.107.58.203:82/logo_channels/tve2.png" group-title="Serbia",RTV 2
+http://cableserver1.cableguy.pro:82/live?cId=446&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="TVPlus.rs" tvg-name="RTV Plus" tvg-logo="http://185.107.58.203:82/logo_channels/tv_plus_bg.png" group-title="Serbia",RTV Plus
+http://cableserver1.cableguy.pro:82/live?cId=447&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="TV PANCEVO (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/tv-panonija-rs.png" group-title="Serbia",TV PANCEVO (RS)
+http://cableserver1.cableguy.pro:82/live?cId=255&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="Nickelodeon.rs" tvg-name="NICKELODEON (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/nickelodeon.png" group-title="Serbia",NICKELODEON (RS)
+http://cableserver1.cableguy.pro:82/live?cId=257&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="KanalA" tvg-name="Kanal M" tvg-logo="http://185.107.58.203:82/logo_channels/kanali7.png" group-title="Serbia",Kanal M
+http://cableserver1.cableguy.pro:82/live?cId=448&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Jata tv" tvg-logo="http://185.107.58.203:82/logo_channels/jabuka_tv.png" group-title="BiH",Jata tv
+http://cableserver1.cableguy.pro:82/live?cId=452&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Novosadska TV" tvg-logo="http://185.107.58.203:82/logo_channels/novatv.png" group-title="Serbia",Novosadska TV
+http://cableserver1.cableguy.pro:82/live?cId=453&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="PrimaTV.cz" tvg-name="Pruga TV" tvg-logo="http://185.107.58.203:82/logo_channels/ugra_tv.png" group-title="Serbia",Pruga TV
+http://cableserver1.cableguy.pro:82/live?cId=1039&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="RTSTrezor.rs" tvg-name="RTS TREZOR" tvg-logo="http://185.107.58.203:82/logo_channels/rts_rs.png" group-title="Serbia",RTS TREZOR
+http://cableserver1.cableguy.pro:82/live?cId=1538&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="PAROVI LIVE" tvg-logo="http://185.107.58.203:82/logo_channels/tarot_vision_es.png" group-title="Serbia",PAROVI LIVE
+http://cableserver1.cableguy.pro:82/live?cId=1541&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="MLAVA TV" tvg-logo="http://185.107.58.203:82/logo_channels/lucaniatv.png" group-title="Serbia",MLAVA TV
+http://cableserver1.cableguy.pro:82/live?cId=1542&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="N1 RS" tvg-logo="http://185.107.58.203:82/logo_channels/n1_rs.png" group-title="Serbia",N1 RS
+http://cableserver1.cableguy.pro:82/live?cId=1543&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTV VOJVODINA 1 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/rtvbanovina.png" group-title="Serbia",RTV VOJVODINA 1 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=2865&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="RTV VOJVODINA 2 (RS)" tvg-logo="http://185.107.58.203:82/logo_channels/rtvbanovina.png" group-title="Serbia",RTV VOJVODINA 2 (RS)
+http://cableserver1.cableguy.pro:82/live?cId=2866&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="TV Leskovac:RS" tvg-logo="http://185.107.58.203:82/logo_channels/tv_leskovac_rs.png" group-title="Serbia",TV Leskovac:RS
+http://cableserver1.cableguy.pro:82/live?cId=3906&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="PARTIZAN TV" tvg-logo="http://185.107.58.203:82/logo_channels/tirana_tv.png" group-title="Serbia",PARTIZAN TV
+http://cableserver1.cableguy.pro:82/live?cId=3991&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Happy Parovi" tvg-logo="http://185.107.58.203:82/logo_channels/hayatovci.png" group-title="Serbia",Happy Parovi
+http://cableserver1.cableguy.pro:82/live?cId=5563&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Happy Parovi TV 2" tvg-logo="http://185.107.58.203:82/logo_channels/hayatovci.png" group-title="Serbia",Happy Parovi TV 2
+http://cableserver1.cableguy.pro:82/live?cId=5564&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="Kurir TV" tvg-logo="http://185.107.58.203:82/logo_channels/kriti_tv.png" group-title="Serbia",Kurir TV
+http://cableserver1.cableguy.pro:82/live?cId=5774&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
+#EXTINF:-1 tvg-id="" tvg-name="EURO NJUZ SERBIA" tvg-logo="http://185.107.58.203:82/logo_channels/euronews_fr.png" group-title="Serbia",EURO NJUZ SERBIA
+http://cableserver1.cableguy.pro:82/live?cId=8495&uid=5414&deviceUser=andreakovac&devicePass=crcSvjHWCcdBMiE1
